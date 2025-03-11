@@ -51,3 +51,13 @@ const RaffleGrid = ({
       description:
         "Win"
     }
+  ]
+}) => {
+  return (
+    <div>
+      {/* Raffle Grid Component Content */}
+    </div>
+  );
+};
+
+export default RaffleGrid;
