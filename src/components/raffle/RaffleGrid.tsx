@@ -48,6 +48,11 @@ const RaffleGrid = ({
     {
       id: "2",
       title: "Beachfront Villa Raffle",
-      description:
-        "Win
-    }
+      description: "Win",
+    },
+  ],
+}) => {
+  return <div>{/* Raffle Grid Component Content */}</div>;
+};
+
+export default RaffleGrid;
