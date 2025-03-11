@@ -49,5 +49,5 @@ const RaffleGrid = ({
       id: "2",
       title: "Beachfront Villa Raffle",
       description:
-        "Win
+        "Win"
     }
